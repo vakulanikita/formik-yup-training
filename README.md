@@ -6,6 +6,8 @@
 
 - [Next.js](https://nextjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
+- [Formik](https://formik.org/)
+- [Yup](https://github.com/jquense/yup/)
 
 ## Project structure
 
